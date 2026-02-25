@@ -93,3 +93,5 @@ mlflow.db
 .mypy_cache/
 .coverage
 htmlcov/
+
+**/yolov8n.pt
