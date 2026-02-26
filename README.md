@@ -1,5 +1,4 @@
 # Module 3: Computer Vision and Image Processing
-**B-Tech AI Specialization | Chitkara University | February 2026**
 
 ---
 
